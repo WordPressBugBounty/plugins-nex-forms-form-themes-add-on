@@ -4,7 +4,7 @@ Contributors: Basix
 Tags: form builder, contact forms, WordPress forms, form themes, multi-step forms
 Requires at least: 4.0
 Tested up to: 6.8
-Stable tag: 9.0
+Stable tag: 9.1
 License: GPLv3 or later
 Author URI: https://basixonline.net
 Plugin URI: https://basixonline.net/nex-forms/pricing/
@@ -14,7 +14,7 @@ Build beautiful responsive forms for WordPress. Contact forms, surveys, quizzes,
 
 == Description ==
 
-The NEX-Forms Form Themes Add-on lets you instantly match your forms to your site’s design with just one click. Choose from 25 pre-set Bootstrap and Classic themes, plus 19 modern Google Material Design and Neumorphism themes. Quickly apply a complete color scheme to ensure your forms look perfectly integrated with your WordPress theme.
+The NEX-Forms Form Themes Add-on lets you instantly match your forms to your site’s design with just one click. Choose from 25 pre-set Bootstrap and Classic themes, plus 19 modern Google Material Design and Neumorphism themes. Quickly apply a complete colour scheme to ensure your forms look perfectly integrated with your WordPress theme.
 
 
 ### ✅ NEX-Forms Highlights:
