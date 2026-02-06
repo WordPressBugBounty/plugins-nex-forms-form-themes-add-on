@@ -3,8 +3,8 @@ Plugin Name: NEX-Forms ADD ON - Form Themes
 Contributors: Basix
 Tags: form builder, contact forms, WordPress forms, form themes, multi-step forms
 Requires at least: 4.0
-Tested up to: 6.8
-Stable tag: 9.1
+Tested up to: 6.9
+Stable tag: 9.1.3
 License: GPLv3 or later
 Author URI: https://basixonline.net
 Plugin URI: https://basixonline.net/nex-forms/pricing/
@@ -33,7 +33,7 @@ https://youtu.be/EOjEH_x8d4o?si=eLJWWoLhF5ucAXIg
 
 
 **Useful Links**
-✨[Live Demo](https://basixonline.net/ "The Ultimate WordPress Form Builder") | 🚀[Go Pro](https://basixonline.net/nex-forms/pricing/ "NEX-Forms Documentation") | ✨[Docs](https://basixonline.net/nex-forms-docs/ "NEX-Forms Documentation")
+✨[Live Demo](https://basixonline.net/ "The Ultimate WordPress Form Builder") | 🚀[Go Pro](https://basixonline.net/nex-forms/pricing/?utm_source=wordpress&utm_medium=upgrade&utm_content=wp-go-pro "NEX-Forms Premium") | ✨[Docs](https://basixonline.net/nex-forms-docs/ "NEX-Forms Documentation")
 
 ✅ Create any type of form you can imagine and embed it anywhere on your site with ease -> Popup Forms, Interactive Forms, Multi-Step Forms, Sticky Forms, Contact Forms, Survey Forms, Payment Forms, Booking Forms, Quiz Forms and more.
 

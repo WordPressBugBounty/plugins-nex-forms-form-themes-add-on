@@ -15,7 +15,7 @@ function ()
 					
 					jQuery(this).attr('data-selected',jQuery(this).val());
 					
-					jQuery('link.jquery_ui_theme').attr('href',jQuery('.plugins_path').text() + '/nex-forms-themes-add-on7/css/'+ jQuery(this).val() +'/jquery.ui.theme.css');
+					jQuery('link.jquery_ui_theme').attr('href',jQuery('.plugins_path').text() + '/nex-forms-form-themes-add-on/css/'+ jQuery(this).val() +'/jquery.ui.theme.css');
 					jQuery('.form_field .the_input_element, .form_field .bootstrap-tagsinput, .form_field .radio-group a, .form_field .check-group a').addClass('ui-state-default')
 					jQuery('.form_field .input-group-addon, .form_field .bootstrap-touchspin .btn').addClass('ui-state-active')
 					jQuery('.form_field p.the_input_element, .form_field.heading .the_input_element').removeClass('ui-state-default');
